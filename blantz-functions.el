@@ -1,7 +1,7 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;; my (blantz) functions
 ;;
-;;  -- yeah, so alot of them are from Writing Gnu Emacs Extensions
+;;  -- yeah, so alot of them are from Reading Gnu Emacs Extensions
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 (defun other-window-backward (&optional n)
   "move cursor to previous window"
